@@ -1,0 +1,27 @@
+{
+  "name": "react-native-payumoney",
+  "version": "1.0.0",
+  "summary": "React native wrapper for payumoney sdk",
+  "license": "MIT",
+  "authors": {
+    "name": "Suraj Tiwari",
+    "email": "surajtiwari020@gmail.com"
+  },
+  "homepage": "https://github.com/Suraj-Tiwari/react-native-payumoney#readme",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/Suraj-Tiwari/react-native-payumoney.git",
+    "tag": "v1.0.0"
+  },
+  "source_files": "ios/**/*.{h,m}",
+  "dependencies": {
+    "React": [
+
+    ],
+    "PayUmoney_PnP": [
+
+    ]
+  }
+}
